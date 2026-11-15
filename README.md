@@ -11,7 +11,6 @@ I am a **Data & Systems Analyst** and Computer Science graduate specializing in 
 ### 🚀 Featured Projects
 * **Municipal Incident Reporting System (Python/Streamlit):** Developed a real-time tracking dashboard for disaster risk management and severe weather data visualization.
 * **Household Carbon Footprint Platform:** Pre-processed survey datasets and implemented K-Means Clustering to segment users and map real-time geographic emission indices.
-* **Esperanto AI Master Tutor:** Built an offline retrieval-augmented generation (RAG) tool using Python, Ollama, and local open-weight language models.
 
 ### 📫 Connect with me
 - **LinkedIn:** [Gabriel Luis Lopez](https://www.linkedin.com/in/gabriel-luis-lopez-43a895200/)
